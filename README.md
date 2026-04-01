@@ -39,7 +39,10 @@ Its mission is simple:
 - 🧭 **Newest AI Tools** — https://Newest-AI-Tools.com — *Curating* the latest AI tools to help teams stay ahead of the curve.
 
 ### **Finance & Analytics**
-- 📈 **Options Calculators** — https://Options-Calculators.com — *Providing* professional‑grade options trading tools for smarter investment decisions.  
+- 📈 **Options Calculators** — https://Options-Calculators.com  
+  <sub>GitHub: https://github.com/joelfrenette/options-calculators.com</sub>  
+  *Providing* professional‑grade options trading tools for smarter investment decisions.  
+
 - ₿ **Bitcoins99** — https://Bitcoins99.info — *Modeling* Bitcoin DCA strategies to support long‑term financial planning.  
 - 💸 **Debt Snowball** — https://The-Debt-Snowball.info — *Guiding* users through debt payoff strategies to achieve financial freedom.  
 - 🧮 **The Tax Game** — https://The-Tax-Game.com — *Simulating* tax strategies to optimize personal and business finances.  
@@ -63,10 +66,14 @@ Its mission is simple:
 ### **Crypto Education**
 - 🪙 **What Is A Bitcoin** — https://WhatIsABitcoin.com — *Explaining* Bitcoin fundamentals in simple, accessible language.
 
-### **GitHub Projects**
-- 🧰 **AI Tools Today** — https://github.com/joelfrenette/ai-tools-today — *Tracking* the latest AI tools for developers and professionals.  
-- 📊 **Options Calculators (GitHub)** — https://github.com/joelfrenette/options-calculators.com — *Powering* financial modeling tools for traders.  
-- ✍️ **Master AI Prompting for Work** — https://github.com/joelfrenette/master-ai-prompting-for-work-com — *Teaching* effective prompting techniques for workplace productivity.
+### **Additional GitHub Work**
+- 🧰 **AI Tools Today** — https://AI-Tools-Today.com  
+  <sub>GitHub: https://github.com/joelfrenette/ai-tools-today</sub>  
+  *Tracking* the latest AI tools for developers and professionals.  
+
+- ✍️ **Master AI Prompting for Work** — https://Master-AI-Prompting-for-Work.com  
+  <sub>GitHub: https://github.com/joelfrenette/master-ai-prompting-for-work-com</sub>  
+  *Teaching* effective prompting techniques for workplace productivity.
 
 ---
 
@@ -115,6 +122,11 @@ AI should serve people, organizations, and society — not the other way around.
   <a href="https://joelfrenette.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/joelfrenette/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://bit.ly/m/joelfrenette"><img src="https://img.shields.io/badge/Bio%20Hub-4A148C?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+
+  <a href="https://x.com/travelfunjoel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/travelfunjoel/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/TravelFunJoel"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
   <a href="https://www.youtube.com/@TravelFunJoel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@travelfunjoel"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="mailto:joel@joelfrenette.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
