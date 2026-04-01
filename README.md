@@ -10,12 +10,29 @@ I’m passionate about **bridging the gap between humans and AI**, and aligning 
 
 ---
 
-# 🔥 Current Projects
+# 🚀 Flagship Product (Closed Source)
+
+## ✈️ **TravelFun.ai** — *Launching June 1, 2026*  
+https://TravelFun.ai  
+
+**An AI‑first operating system designed to transform individual travel agents into fully scalable, high‑performance travel agencies.**
+
+TravelFun.ai is built around:
+- AI agents  
+- Automated workflows  
+- Custom travel‑industry apps  
+- Deep integrations  
+- Human‑centric design  
+
+Its mission is simple:  
+> **Empower travel agents with AI superpowers — not replace them.**
+
+---
+
+# 🔧 Previous Projects
 
 ### **AI Platforms & Automation**
-- ✈️ **TravelFun.ai** — https://TravelFun.ai — *Transforming* travel agents into high‑performance agencies through AI workflows, automations, and custom AI agents.  
 - 🤖 **AIExperts99** — https://AIExperts99.com — *Delivering* executive‑level AI consulting to accelerate enterprise transformation.  
-- 🧠 **Kayly.ai** — https://Kayly.ai — *Building* custom AI assistants and workflows tailored to business operations.  
 - ⚙️ **Automate‑My‑Job** — https://Automate-My-Job.com — *Automating* repetitive work to increase productivity and reduce operational costs.  
 - 🧩 **Use Case Matrix** — https://UseCaseMatrix.com — *Mapping* AI opportunities to business value for strategic decision‑making.  
 - 📊 **AI ROI Calculator** — https://The-AI-ROI-Calculator.com — *Quantifying* the financial impact of AI initiatives for leadership teams.  
