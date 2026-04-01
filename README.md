@@ -3,124 +3,105 @@
 **CTO • Chief Artificial Intelligence Officer • Senior Technical Program Manager**  
 24+ years of IT leadership across AI strategy, enterprise transformation, cybersecurity, and large‑scale program delivery.
 
-PMP‑certified • Triple MBA • iMaster in Project Management • Master’s in AI for Business  
+PMP‑certified • Triple MBA • Master’s in Project Management • Master’s in AI for Business  
 Forbes Technology Council Member • Published Author (11 books) • Researcher (9+ papers)
 
 I’m passionate about **bridging the gap between humans and AI**, and aligning **technology, business, and people** to create meaningful, ethical, high‑impact innovation.
 
 ---
 
-## 🏅 Professional Badges
+# 🔥 Current Projects
+
+### **AI Platforms & Automation**
+- ✈️ **TravelFun.ai** — https://TravelFun.ai — *Transforming* travel agents into high‑performance agencies through AI workflows, automations, and custom AI agents.  
+- 🤖 **AIExperts99** — https://AIExperts99.com — *Delivering* executive‑level AI consulting to accelerate enterprise transformation.  
+- 🧠 **Kayly.ai** — https://Kayly.ai — *Building* custom AI assistants and workflows tailored to business operations.  
+- ⚙️ **Automate‑My‑Job** — https://Automate-My-Job.com — *Automating* repetitive work to increase productivity and reduce operational costs.  
+- 🧩 **Use Case Matrix** — https://UseCaseMatrix.com — *Mapping* AI opportunities to business value for strategic decision‑making.  
+- 📊 **AI ROI Calculator** — https://The-AI-ROI-Calculator.com — *Quantifying* the financial impact of AI initiatives for leadership teams.  
+- 🧭 **Newest AI Tools** — https://Newest-AI-Tools.com — *Curating* the latest AI tools to help teams stay ahead of the curve.
+
+### **Finance & Analytics**
+- 📈 **Options Calculators** — https://Options-Calculators.com — *Providing* professional‑grade options trading tools for smarter investment decisions.  
+- ₿ **Bitcoins99** — https://Bitcoins99.info — *Modeling* Bitcoin DCA strategies to support long‑term financial planning.  
+- 💸 **Debt Snowball** — https://The-Debt-Snowball.info — *Guiding* users through debt payoff strategies to achieve financial freedom.  
+- 🧮 **The Tax Game** — https://The-Tax-Game.com — *Simulating* tax strategies to optimize personal and business finances.  
+- 🏡 **Mortgage Masters** — https://The-Mortgage-Masters.com — *Optimizing* mortgage scenarios to reduce interest and accelerate payoff.
+
+### **Travel & Hospitality**
+- 🌍 **TravelFun.biz** — https://TravelFun.biz — *Empowering* travelers and agents with AI‑enhanced travel planning.  
+- 🧳 **Trip Analyzer** — https://Trip-Analyzer.com — *Analyzing* travel data to improve trip planning and customer satisfaction.  
+- 🎓 **Agents.TravelFun.biz** — https://Agents.TravelFun.biz — *Training* travel agents with award‑winning AI‑powered learning systems.
+
+### **Education, Learning & Content**
+- 🧠 **Freedom Flashcards** — https://Freedom-Flashcards.com — *Accelerating* learning through spaced‑repetition flashcards.  
+- ♟️ **TeenChess** — https://TeenChess.com — *Teaching* strategic thinking through interactive chess lessons.  
+- 📰 **Meme Busters** — https://Meme-Busters.com — *Debunking* misinformation to promote digital literacy.
+
+### **Web, Marketing & Productivity**
+- 💻 **WebDesigns99** — https://WebDesigns99.com — *Designing* modern websites for small businesses and entrepreneurs.  
+- 📣 **Social Ads That Work** — https://SocialAdsThatWork.com — *Improving* ad performance through data‑driven optimization.  
+- 🏠 **WFH99** — https://WFH99.com — *Supporting* remote workers with curated tools and resources.
+
+### **Crypto Education**
+- 🪙 **What Is A Bitcoin** — https://WhatIsABitcoin.com — *Explaining* Bitcoin fundamentals in simple, accessible language.
+
+### **GitHub Projects**
+- 🧰 **AI Tools Today** — https://github.com/joelfrenette/ai-tools-today — *Tracking* the latest AI tools for developers and professionals.  
+- 📊 **Options Calculators (GitHub)** — https://github.com/joelfrenette/options-calculators.com — *Powering* financial modeling tools for traders.  
+- ✍️ **Master AI Prompting for Work** — https://github.com/joelfrenette/master-ai-prompting-for-work-com — *Teaching* effective prompting techniques for workplace productivity.
+
+---
+
+# 🌟 Vision & Principles
+
+## **Human‑Centric AI**
+AI should **elevate human potential**, not replace it.  
+Technology is at its best when it amplifies creativity, accelerates expertise, and frees people to focus on meaningful work.
+
+## **AI as an Empowerment Layer**
+I build AI systems that:
+- **Enhance** human decision‑making  
+- **Automate** the repetitive, not the meaningful  
+- **Augment** professionals with superpowers  
+- **Respect** human judgment, ethics, and context  
+
+## **Bridging Technology & Business**
+My work aligns:
+- Human needs  
+- Business strategy  
+- AI capabilities  
+- Operational reality  
+
+The result: AI that is practical, ethical, and transformative.
+
+## **AI for Real Work**
+Across all my platforms — especially **TravelFun.ai** — the mission is consistent:
+
+> **Use AI to make people better at their jobs, not obsolete.**
+
+## **Responsible Innovation**
+Every system I build follows principles of:
+- Transparency  
+- Accountability  
+- Human oversight  
+- Value creation  
+- Long‑term sustainability  
+
+AI should serve people, organizations, and society — not the other way around.
+
+---
+
+# 🌐 Connect With Me
 
 <p>
-  <img src="https://img.shields.io/badge/Forbes-Tech%20Council-blue?logo=forbes" />
-  <img src="https://img.shields.io/badge/PMP-Certified-blue?logo=project-management-institute" />
-  <img src="https://img.shields.io/badge/Master's-AI%20for%20Business-purple" />
-  <img src="https://img.shields.io/badge/Author-11%20Books-green" />
-  <img src="https://img.shields.io/github/followers/joelfrenette?label=GitHub%20Followers&style=social" />
+  <a href="https://joelfrenette.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/joelfrenette/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://bit.ly/m/joelfrenette"><img src="https://img.shields.io/badge/Bio%20Hub-4A148C?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@TravelFunJoel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@travelfunjoel"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="mailto:joel@joelfrenette.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 </p>
-
----
-
-## 🌐 My Work & Digital Ecosystem
-
-Here are the platforms, tools, and products I’ve built or lead:
-
-### **AI & Technology Platforms**
-- **AIExperts99.com**
-- **Kayly.ai**
-- **Automate-My-Job.com**
-- **Newest-AI-Tools.com**
-- **The-AI-ROI-Calculator.com**
-- **Use Case Matrix**
-
-### **Financial & Analytics Tools**
-- **Options-Calculators.com**
-- **Bitcoins99.info**
-- **The-Debt-Snowball.info**
-- **The-Tax-Game.com**
-- **The-Mortgage-Masters.com**
-
-### **Travel & Hospitality Platforms**
-- **TravelFun.biz**
-- **Trip-Analyzer.com**
-- **Agents.TravelFun.biz**
-
-### **Education, Training & Content**
-- **Freedom-Flashcards.com**
-- **TeenChess.com**
-- **Meme-Busters.com**
-
----
-
-## 🧪 GitHub Projects
-
-- **ai-tools-today**  
-  https://github.com/joelfrenette/ai-tools-today
-
-- **options-calculators.com**  
-  https://github.com/joelfrenette/options-calculators.com
-
-- **master-ai-prompting-for-work-com**  
-  https://github.com/joelfrenette/master-ai-prompting-for-work-com
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joelfrenette&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelfrenette&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📰 Latest Forbes Articles
-*(Auto‑generated section — you can connect this with a GitHub Action later)*
-
-- Coming soon: automated feed of your Forbes Technology Council articles.
-
----
-
-## 🏆 Awards & Recognition
-<details>
-<summary><strong>Click to expand</strong></summary>
-
-- Best AI Readiness Assessment Provider – Global Tech Insider (2025)  
-- AI Consulting Services Company of the Year – IE100 Global Awards (2025)  
-- Human‑Centric AI Strategy Innovator of the Year – CorporateVision (2025)  
-- Multiple Magellan Awards (2023–2025)  
-- Best Global AI Integrations Expert – LUXLife (2024)  
-- And more…
-
-</details>
-
----
-
-## 📚 Publications & Research
-<details>
-<summary><strong>Click to expand</strong></summary>
-
-### **Books (11 published)**
-AI, crypto, travel industry, business strategy, and human‑centric innovation.
-
-### **Academic Papers (9+)**
-AI governance, human‑AI collaboration, ethical AI, decentralized AI systems.
-
-### **Patent**
-USPTO Provisional Patent #63/742,033 — *Tokenized Power Control for Human‑Centric AI*.
-
-</details>
-
----
-
-## 🌍 Connect With Me
-
-- **Website:** https://joelfrenette.com  
-- **LinkedIn:** https://www.linkedin.com/in/joelfrenette/  
-- **Bio Hub:** https://bit.ly/m/joelfrenette  
-- **YouTube:** @TravelFunJoel  
-- **TikTok:** @TravelFunJoel  
 
 ---
 
