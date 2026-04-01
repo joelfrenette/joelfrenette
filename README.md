@@ -1,8 +1,3 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://dummyimage.com/1200x250/0a0a0a/ffffff&text=Joel+Frenette+—+CTO+%7C+AI+Leader+%7C+Author" alt="Joel Frenette Banner"/>
-</p>
-
 # 👋 Hi, I'm Joel Frenette
 
 **CTO • Chief Artificial Intelligence Officer • Senior Technical Program Manager**  
