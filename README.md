@@ -33,7 +33,6 @@ Its mission is simple:
 
 ### **AI Platforms & Automation**
 - 🤖 **AIExperts99** — https://AIExperts99.com — *Delivering* executive‑level AI consulting to accelerate enterprise transformation.  
-- ⚙️ **Automate‑My‑Job** — https://Automate-My-Job.com — *Automating* repetitive work to increase productivity and reduce operational costs.  
 - 🧩 **Use Case Matrix** — https://UseCaseMatrix.com — *Mapping* AI opportunities to business value for strategic decision‑making.  
 - 📊 **AI ROI Calculator** — https://The-AI-ROI-Calculator.com — *Quantifying* the financial impact of AI initiatives for leadership teams.  
 - 🧭 **Newest AI Tools** — https://Newest-AI-Tools.com — *Curating* the latest AI tools to help teams stay ahead of the curve.
@@ -70,10 +69,6 @@ Its mission is simple:
 - 🧰 **AI Tools Today** — https://AI-Tools-Today.com  
   <sub>GitHub: https://github.com/joelfrenette/ai-tools-today</sub>  
   *Tracking* the latest AI tools for developers and professionals.  
-
-- ✍️ **Master AI Prompting for Work** — https://Master-AI-Prompting-for-Work.com  
-  <sub>GitHub: https://github.com/joelfrenette/master-ai-prompting-for-work-com</sub>  
-  *Teaching* effective prompting techniques for workplace productivity.
 
 ---
 
