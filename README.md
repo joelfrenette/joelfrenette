@@ -15,7 +15,7 @@ I’m passionate about **bridging the gap between humans and AI**, and aligning 
 
 ## ✈️ **TravelFun.ai** — *Waitlist Open | Public Launch Coming Soon*
 
-**https://travelfun.ai**
+**www.TravelFun.ai**
 
 An all-in-one **AI-first operating system** designed to transform individual travel agents and host agencies into fully scalable, high-performance businesses.
 
