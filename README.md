@@ -11,9 +11,7 @@ I’m passionate about **bridging the gap between humans and AI**, and aligning 
 
 ---
 
-# 🚀 Flagship Product (Closed Source)
-
-## ✈️ **TravelFun.ai** — *Waitlist Open | Public Launch Coming Soon*
+## ✈️ **TravelFun.ai** — *Waitlist Open 🚀 Public Launch Coming Soon*
 
 **www.TravelFun.ai**
 
@@ -83,8 +81,10 @@ Many of these represent AI tools, platforms, and experiments I’ve built or con
 ### **Crypto Education**
 - 🪙 **What Is A Bitcoin** — https://WhatIsABitcoin.com (in development / conceptual)  
   *Explaining* Bitcoin fundamentals in simple, accessible language.
+- ₿ Bitcoins99 — https://Bitcoins99.info (in development / conceptual)
+  Modeling Bitcoin DCA strategies for long-term financial planning.
 
-### **Additional GitHub & Tool Work**
+### **Additional GitHub & Tools Work**
 - 🧰 **AI Tools Today** (see above) — GitHub: https://github.com/joelfrenette/ai-tools-today  
   Tracking the latest AI tools.
 
@@ -119,7 +119,6 @@ Every system follows principles of transparency, accountability, human oversight
 <p>
   <a href="https://joelfrenette.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/joelfrenette/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://bit.ly/m/joelfrenette"><img src="https://img.shields.io/badge/Bio%20Hub-4A148C?style=for-the-badge&logo=linktree&logoColor=white" /></a>
   <a href="https://x.com/travelfunjoel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/travelfunjoel/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/TravelFunJoel"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
